@@ -1,3 +1,28 @@
+-----
+
+-----
+
+-----
+
+-----
+
+-----
+
+Note
+====
+
+**Development has moved to** `Wikimedia <https://github.com/wikimedia/WikiWho/>`_. Please use their `repository <https://github.com/wikimedia/WikiWho/>`_. going forward. This repository is no longer actively maintained.
+ 
+-----
+
+-----
+
+-----
+
+-----
+
+-----
+
 WikiWho
 =======
 An algorithm to identify the revision origin of - and all changes ever applied to - the tokens of a revisioned Wiki document. This enables, e.g., detecting authorship and editor interactions.
